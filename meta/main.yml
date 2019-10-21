@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-  role_name: willshersystems.sshd
+  role_name: sshd
   author: Matt Willsher
   description: OpenSSH SSH daemon configuration
   company: Willsher Systems
